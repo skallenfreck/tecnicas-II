@@ -26,6 +26,6 @@ public class Vista {
 	}
 	
 	public static void mensajeFinal() {
-		System.out.println("Esta bien, hasta luego");
+		System.out.println("👋 ¡Gracias por usar nuestro clasificador de videos! Esperamos verte de nuevo pronto. ¡Hasta luego!");
 	}
 }

@@ -86,8 +86,7 @@ public class Control {
 				} else {
 					Vista.mostrarMensaje("📚 Actualmente, hay " + cont + " video(s) educativo(s) registrado(s).");
 				}
-				Vista.mostrarMensaje(
-						"👋 ¡Gracias por usar nuestro clasificador de videos! Esperamos verte de nuevo pronto. ¡Hasta luego!");
+				Vista.mensajeFinal();
 				break;
 			}
 		} while (opcion != 3);
